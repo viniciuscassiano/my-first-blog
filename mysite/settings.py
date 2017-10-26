@@ -25,7 +25,7 @@ SECRET_KEY = 'm@3g2-81934i%n5dfe12(nmra9he-sz1ww&m^5^ad__%lpf06*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'LENOVO.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'viniciuscassiano.pythonanywhere.com']
 
 
 # Application definition
@@ -107,7 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Aerica/Sao_Paulo'
+TIME_ZONE = 'America/Sao_Paulo'
 
 USE_I18N = True
 
